@@ -1,0 +1,1 @@
+import{s as n,v as e}from"./entry.01c54f3b.js";const r=()=>{const o=n("lastScrollPosition",()=>({isPageTop:!1,isPageAtBottom:!1})),i=t=>s=>{t.value.isPageTop=s},a=t=>s=>{t.value.isPageAtBottom=s};return{lastScrollPosition:e(o),isAtTopOnPageTransition:i(o),isAtBottomOnPageTransition:a(o)}};export{r as u};

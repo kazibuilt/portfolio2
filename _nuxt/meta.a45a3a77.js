@@ -1,0 +1,1 @@
+const i="YTNG",t="YTNG is a front-end developer (digital designer) based in Tokyo, passionately evoted to pursuing the elegant simplicity of functionality, digital-specific interactions, animations, and graphics.",s="https://ytng.dev";export{t as a,s as b,i as s};
